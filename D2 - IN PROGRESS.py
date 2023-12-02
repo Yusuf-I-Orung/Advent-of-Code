@@ -18,4 +18,4 @@ for line in calibrationLines:
         calibrationNumber = (calibrationNumber*2)
     calibrationValue += int(calibrationNumber)
 
-print(calibrationValue)
+print(calibrationValue) 
